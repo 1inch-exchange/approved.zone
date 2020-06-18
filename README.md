@@ -1,4 +1,4 @@
-# Approvede.zone
+# Approved.zone
 
 Deploy smart contract. In a new console tab run:
 
